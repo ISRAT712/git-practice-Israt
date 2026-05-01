@@ -10,3 +10,6 @@ from utils import add, subtract, multiply
 print("Addition:", add(5, 3))
 print("Subtraction:", subtract(5, 3))
 print("Multiplication:", multiply(5, 3))
+from utils import divide
+
+print("Division:", divide(10, 0))
